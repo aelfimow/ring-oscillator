@@ -1,7 +1,14 @@
 # ring-oscillator
 A collection of self-made ring oscillator subcircuits.
 
-# Ring oscillator with CMOS 4049
+# Ring oscillators with CMOS 4049
+
+Oscillator | Frequency (MHz)
+---|-------------
+1 | 2.632
+2 | 2.481
+3 | 2.56
+4 | 2.144
 
 ## Schematics
 TODO
@@ -12,7 +19,14 @@ TODO
 ## Bottom of the boards
 ![Bottom of the boards](images/bottom-cmos4049.jpg)
 
+## Example of frequency measurement
+![Example frequency measurement](images/measure-example.jpg)
+
 # Ring oscillator with 74HC04
+
+Oscillator | Frequency (MHz)
+---|-------------
+1 | 26.275
 
 ## Schematics
 TODO
